@@ -103,6 +103,8 @@ body {
 }
 
 
-.terceira {
-    
+.terceira p {
+    max-width: 40%;
+    font-size: 1.2rem;
+    color: var(--content-color);
 }
